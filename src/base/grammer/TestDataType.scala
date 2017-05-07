@@ -28,11 +28,11 @@ object TestDataType {
     var float2  = 3.14159f
 
 //    多行字符串用三个双引号来表示分隔符，格式为：""" ... """。
-    val foo = """菜鸟教程
-www.runoob.com
-        www.w3cschool.cc
-        www.runnoob.com
-        以上三个地址都能访问"""
+    val foo = """aaa
+vvv
+       ddd
+        333
+        555"""
     print(foo)
 
 //    b		退格(BS) ，将当前位置移到前一列
